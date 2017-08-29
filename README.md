@@ -1,6 +1,6 @@
 # admintool
 
-> A Vue.js project
+> An Admin tool Vue.js project
 
 ## Build Setup
 
@@ -15,4 +15,4 @@ npm run dev
 npm run build
 ```
 
-For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+For detailed explanation on how things work, consult the [docs for vue-loader](http://github.com/secabhi).
